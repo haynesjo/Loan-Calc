@@ -1,0 +1,20 @@
+C:\Users\rapiende\Desktop\Loan Calculator\Loan Calculator\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rapiende\Desktop\Loan Calculator\Loan Calculator\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rapiende\Desktop\Loan Calculator\Loan Calculator\bin\Debug\netcoreapp3.1\Loan Calculator.exe
+C:\Users\rapiende\Desktop\Loan Calculator\Loan Calculator\bin\Debug\netcoreapp3.1\Loan Calculator.deps.json
+C:\Users\rapiende\Desktop\Loan Calculator\Loan Calculator\bin\Debug\netcoreapp3.1\Loan Calculator.runtimeconfig.json
+C:\Users\rapiende\Desktop\Loan Calculator\Loan Calculator\bin\Debug\netcoreapp3.1\Loan Calculator.runtimeconfig.dev.json
+C:\Users\rapiende\Desktop\Loan Calculator\Loan Calculator\bin\Debug\netcoreapp3.1\Loan Calculator.dll
+C:\Users\rapiende\Desktop\Loan Calculator\Loan Calculator\bin\Debug\netcoreapp3.1\Loan Calculator.pdb
+C:\Users\rapiende\Desktop\Loan Calculator\Loan Calculator\obj\Debug\netcoreapp3.1\Loan Calculator.csprojAssemblyReference.cache
+C:\Users\rapiende\Desktop\Loan Calculator\Loan Calculator\obj\Debug\netcoreapp3.1\Loan Calculator.AssemblyInfoInputs.cache
+C:\Users\rapiende\Desktop\Loan Calculator\Loan Calculator\obj\Debug\netcoreapp3.1\Loan Calculator.AssemblyInfo.cs
+C:\Users\rapiende\Desktop\Loan Calculator\Loan Calculator\obj\Debug\netcoreapp3.1\Loan Calculator.csproj.CoreCompileInputs.cache
+C:\Users\rapiende\Desktop\Loan Calculator\Loan Calculator\obj\Debug\netcoreapp3.1\Loan Calculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rapiende\Desktop\Loan Calculator\Loan Calculator\obj\Debug\netcoreapp3.1\staticwebassets\Loan Calculator.StaticWebAssets.Manifest.cache
+C:\Users\rapiende\Desktop\Loan Calculator\Loan Calculator\obj\Debug\netcoreapp3.1\staticwebassets\Loan Calculator.StaticWebAssets.xml
+C:\Users\rapiende\Desktop\Loan Calculator\Loan Calculator\obj\Debug\netcoreapp3.1\scopedcss\bundle\Loan Calculator.styles.css
+C:\Users\rapiende\Desktop\Loan Calculator\Loan Calculator\obj\Debug\netcoreapp3.1\Loan Calculator.RazorTargetAssemblyInfo.cache
+C:\Users\rapiende\Desktop\Loan Calculator\Loan Calculator\obj\Debug\netcoreapp3.1\Loan Calculator.dll
+C:\Users\rapiende\Desktop\Loan Calculator\Loan Calculator\obj\Debug\netcoreapp3.1\Loan Calculator.pdb
+C:\Users\rapiende\Desktop\Loan Calculator\Loan Calculator\obj\Debug\netcoreapp3.1\Loan Calculator.genruntimeconfig.cache

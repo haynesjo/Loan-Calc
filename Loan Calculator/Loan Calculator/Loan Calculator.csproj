@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Loan_Calculator</RootNamespace>
+    <OutputType>Library</OutputType>
+  </PropertyGroup>
+
+</Project>
